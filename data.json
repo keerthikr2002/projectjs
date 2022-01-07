@@ -1,0 +1,23 @@
+{
+
+"cards":[{
+"img":"./sample pictures/desert.jpg",
+"name":"desert",
+"pname":"sahara",
+"place":"jaipur"
+},
+{
+    "img":"./sample pictures/desert.jpg",
+"name":"desert",
+"pname":"sahara",
+"place":"jaipur"
+},
+{
+    "img":"./sample pictures/desert.jpg",
+"name":"desert",
+"pname":"sahds",
+"place":"jaipur"
+}
+
+]
+}
